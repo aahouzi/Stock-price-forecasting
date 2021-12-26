@@ -9,7 +9,7 @@ and their applications for stock price forecasting.
   - **Momentum trading.**
   - **Short/long term SMA.**
   - **Moving Average Convergence Divergence (MACD).**
-  - **Bolling Bands (BB).**
+  - **Bollinger Bands (BB).**
   - **Pairs trading.**
   - **Reinforcement learning agents.**
   
