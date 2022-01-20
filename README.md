@@ -5,7 +5,7 @@ Enseirb-Matmeca, Bordeaux INP | [Anas AHOUZI](https://www.linkedin.com/in/aahouz
 ## :monocle_face: Description
 - This project contains an overview of some fundamentals about time series (stationarity, seasonality, trends, etc..) alongside some simple models widely used in signal processing like AR, MA or ARIMA models,
 and their applications for stock price forecasting.
-- It will also cover a Python implementation of various quantitative trading strategies widely used in financial markets:
+- It will also cover a Python implementation of all the steps involved in various quantitative trading strategies widely used in financial markets:
   - **SMA with trading volume.**
   - **Short/long term SMA.**
   - **Moving Average Convergence Divergence (MACD).**
