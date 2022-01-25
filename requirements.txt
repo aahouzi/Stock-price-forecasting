@@ -2,3 +2,4 @@ pandas==1.1.5
 yfinance==0.1.67
 numpy==1.19.5
 pandas-ta==0.3.14b0
+backtrader==1.9.76.123
