@@ -17,7 +17,7 @@ and their applications for stock price forecasting.
   - **KDJ indicator.**
   - **Relative Strength Index (RSI).**
   
-3. Adding market sentiment analysis of financial news for a stock with **VADER**, and see how it can improve trading signals quality, when it's mixed with a simple short/long term SMA strategy. 
+3. Adding market sentiment analysis of financial news for a stock with **VADER**, and analyze its performance. 
   
 **PS:** The financial data chosen for this project is Apple stock close prices over various time periods. It's from [YahooFinance](https://pypi.org/project/yfinance/) data source, and contains different price parameters for various S&P500 companies.
 
